@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SyedAli105
+- 👀 I’m interested in Artifical Intelligence
+- 🌱 I’m currently learning pyhton,machine learning
+- 💞️ I’m looking to collaborate on python programming softwares
+- 📫 How to reach me ma6648941@gmail.com
